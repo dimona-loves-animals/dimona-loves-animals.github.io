@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+﻿## ברוכים הבאים לדימונה אוהבת חיות
 
-You can use the [editor on GitHub](https://github.com/dimona-loves-animals/dimona-loves-animals.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### מטרות העמותה
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. הצלה ושיפור איכות חייהם של בעלי החיים בעיר דימונה ובסביבתה.
+2. פעילות בתחום החינוך וההסברה להגברת מודעות למצבם וזכויותיהם של בע"ח.
+3. הדרכה, הנגשת מידע וייעוץ לציבור בתחום בעלי חיים.
+4. שיפור איכות החיים של תושבי העיר דימונה וחיות המחמד שלהם.
+5. הפקת פעילויות המועילות הן לבעלי חיים והן לקהילה.
 
-### Markdown
+### מתנדבים
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+אם אתם מבינים באחד מהתחומים הבאים (או אחרים)
 
-```markdown
-Syntax highlighted code block
+* עיצוב גרפי
+* צילום/עריכה
+* ציור/איור דיגיטלי
+* כתיבה
+* בניית אתרים
 
-# Header 1
-## Header 2
-### Header 3
+**דימונה אוהבת חיות זקוקה לכם!**
 
-- Bulleted
-- List
+### רוצים לעזור?
 
-1. Numbered
-2. List
+אלו הדרכים בהם תוכלו לעזור:
+* הצטרפו [אלינו בפייסבוק](https://www.facebook.com/dimonalovesanimals)
+* הצטרפו [לקבוצה בפייסבוק](https://www.facebook.com/groups/DimonaLoveAnimals/)
+* [תרומה לכלבי ההסגר](http://help.dimonalovesanimals.org/city-kennel#donate)
+* [אמצו כלב מההסגר העירוני](http://www.dimona.muni.il/Population/VeterinaryServices/Pages/default.aspx)
+* [רישום לאומנה](https://docs.google.com/forms/d/e/1FAIpQLSdvmAmRZcnVrYf3eDTqzCWp1zzPIu5b_WGmFzpo71Q2Ud_omg/viewform)
+* [חתמו על העצומה למען חתולי הרחוב](https://www.atzuma.co.il/dimonacats)
+* [השקו חבר](https://www.facebook.com/dimonalovesanimals/posts/829506110438340)
+* [השארו מעודכנים](http://help.dimonalovesanimals.org/subscribe#now)
+* רוצים לעזור בדרך שלכם?
 
-**Bold** and _Italic_ and `Code` text
+### טלפונים שימושיים
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dimona-loves-animals/dimona-loves-animals.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* בית החולים הוטרינרי – 08-6573792. שעות פעילות המרפאה:
+	ימי ראשון, שלישי, חמישי ושישי- 9:00 עד 11:00
+	ימי ראשון, שלישי וחמישי- 16:30 עד 18:30
+* המחלקה הווטרינרית העירונית: 073-2756175
+	שעות פעילות:
+	א',ב',ד',ה' – 8:00- 15:30
+	ג' – 8:00-13:00 , 15:30- 18:00
+	כתובת: רח' הבאבא סאלי 1 בדימונה קרוב לבית האבות ולכניסה הדרומית לעיר.
+* יורם – "החי והצומח" דימונה. 050-2222590
+* ספידוג – משלוחים עד הבית 086409112
